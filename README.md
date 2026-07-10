@@ -8,6 +8,3 @@ Running log of daily reps: LeetCode-style DS/ML screening problems and Kaggle co
 
 `kaggle/` holds notebooks per competition round, starting with a Playground Series entry.
 
-## Log
-
-2026-07-03 — repo scaffolded, first LeetCode problem added (SQL: second highest salary).
